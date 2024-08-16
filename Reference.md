@@ -4,6 +4,10 @@
 
 [线性回归的从零开始实现](https://zh-v2.d2l.ai/chapter_linear-networks/linear-regression-scratch.html)
 
+[Numpy 实现线性回归](https://blog.csdn.net/luis_jie/article/details/113369316)
+
+[线性回归的求解：矩阵方程和梯度下降、数学推导及NumPy实现](https://cloud.tencent.com/developer/article/1633221)
+
 **Videos**:
 
 [【正态分布】来！让我们重新得出正态分布公式 - 梯度世界](https://www.bilibili.com/video/BV1g442197Dv/)
